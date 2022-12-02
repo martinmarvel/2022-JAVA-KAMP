@@ -46,7 +46,7 @@ public class Main {
 	}
 	// Output : Sayi mevcut : 7 Sayi mevcut : 7
 
-	////////////////////////////////////////////////////////////////////
+	
 
 	// "void" operasyonlar bir şeyi yap demek, bize sonuç döndürmez.
 	// topla() metodunu "int" tipinde bir veri döndürecek şekilde yazıldı, "return"
